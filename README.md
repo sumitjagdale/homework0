@@ -1,13 +1,13 @@
-#homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
+﻿#homework0
 
-## Brief self-introduction [max 500 words]
+Hello Everyone,
+Myself Sumit J,I am from India and this is my second smester at NCTU.
+Since last semester I was looking for this course but it was not there at NCTU(English Version Course).
+Fortunately this semester its available at NTHU and it will be a great experience to work under Professor Sun Min.
 
-## Why Computer Vision? [max 500 words]
+My research area is related to camera calibration and I need to have some basic knowledge of computer vision, soI believe this course will 
+help me to scale up my knowledge in those field.
 
-## What do you want to achieve in the course? [ max 500 words]
+Based on programming homeworks I will learn alot about vision processing and estimation.
+Thank you!
 
-PS. 中文 or English are both fine.
-
-## Due Date: Sept. 23, 2015
